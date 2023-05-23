@@ -1,3 +1,3 @@
-# Your blog
+# My Blog? XD
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This is where I update/edit my blogs I know it sucks to use git to make blogs but guess what It's better than slew of other shit available online.
